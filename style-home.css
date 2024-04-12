@@ -290,18 +290,10 @@ input[placeholder] {
     color: #3b3b3b;
 }
 
-footer {
-    width: 100vw;
-    height: 200px;
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: flex-start;
-    background-color: #c1fc74;
-}
-
 footer .creditos {
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
     width: 100vw;
     height: 50px;
